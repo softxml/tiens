@@ -19,7 +19,7 @@
          </size>
       </catalog_item>
       <catalog_item gender="Women's">
-         <item_number>RRX9856</item_number>
+         <item_number>RRX985677</item_number>
          <price>42.50</price>
          <size description="Small">
             <color_swatch image="red_cardigan.jpg">Red</color_swatch>
